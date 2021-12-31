@@ -2,7 +2,7 @@
 repository of python codes
 
 
-![Private Investocat](https://octodex.github.com/images/yaktocat.png)
+![Private Investocat](https://github.com/musaogural/PY/blob/main/privateinvestocat.jpg)
 
 ```
 for(;;)
